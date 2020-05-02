@@ -61,3 +61,4 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+src/pages/Dashboard/index02.tsx
